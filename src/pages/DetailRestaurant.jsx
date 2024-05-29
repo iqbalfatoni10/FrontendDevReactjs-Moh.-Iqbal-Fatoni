@@ -85,7 +85,7 @@ const DetailRestaurant = () => {
         ))}
         <div className="flex justify-end mx-4 sm:mx-12 lg:mx-36 mt-6">
           <button className="bg-blue-600 text-white duration-500 px-10 py-2 hover:bg-blue-700 rounded mb-6">
-            <Link to="/">Kembali</Link>
+            <Link to="/FrontendDevReactjs-Moh.-Iqbal-Fatoni">Kembali</Link>
           </button>
         </div>
       </div>
