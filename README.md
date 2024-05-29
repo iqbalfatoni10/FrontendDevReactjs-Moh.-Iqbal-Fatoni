@@ -16,4 +16,4 @@ Cara mulai/run projek:
 
 1. Clone code
 2. Buka terminal dan ketik npm install kemudian enter
-3. Run projek dengan cara ketik npm run dev di terminal
+3. Run projek dengan cara ketik npm run dev di terminal kemudian enter
